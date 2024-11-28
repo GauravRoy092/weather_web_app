@@ -17,7 +17,7 @@ This app uses the OpenWeatherMap API to fetch weather data. To use this app, you
 Install my-project with pip
 
 ```bash
-  pip install requests Pillow ttkbootstrap
+  pip install requests Pillow ttkbootstrap tkinter
 
 ```
     
